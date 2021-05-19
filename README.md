@@ -6,7 +6,7 @@
 
 <ul>
     <li><a href="./lista-1">Lista 1</a></li>
-    <ol>
+    <ol type="1">
         <li><a href="./lista-1/acertos.py">Acertos</a></li>
         <li><a href="./lista-1/emprestimos.py">Emprestimos</a></li>
         <li><a href="./lista-1/ordem_grandeza.py">Ordem de Grandezas</a></li>
